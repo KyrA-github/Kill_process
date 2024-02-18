@@ -1,1 +1,2 @@
-mysummercar.exe
+key=ctrl+alt+p
+name_process=cs2.exe
